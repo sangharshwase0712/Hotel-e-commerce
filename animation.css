@@ -1,0 +1,11 @@
+@keyframes FadeInDown{
+    0%{
+        top: -30%;
+    }
+    50%{
+        top: -15%;
+    }
+    100%{
+        top:0
+    }
+}
